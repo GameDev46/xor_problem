@@ -1,4 +1,4 @@
-import { NeuralNetwork } from "/neuralNetwork.js";
+import { NeuralNetwork } from "./neuralNetwork.js";
 
 const presets = {
 	inputs: 2,
